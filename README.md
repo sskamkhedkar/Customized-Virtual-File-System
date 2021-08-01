@@ -17,34 +17,41 @@ o	While providing the implementations of all above functionality use my own data
 o	By using this project get the overview of UFS (UNIX File System) on any platform.
 
 •	Data Structure used in the Project:
-o	UAREA
-o	FILE TABLE
-o	IIT (IN CORE INODE TABLE)
-o	USER FILE DESCRIPTOR TABLE
-o	BOOT BLOCK
-o	SUPER BLOCK
-o	DILB (DATA INODE LIST BLOCK)
-o	DATA BLOCK
+
+
+UAREA  ,  FILE TABLE  ,  IIT (IN CORE INODE TABLE)  , USER FILE DESCRIPTOR TABLE  ,  BOOT BLOCK  ,  SUPER BLOCK  ,    DILB (DATA INODE LIST BLOCK)   ,   DATA BLOCK
 
 •	To run this project use below commands
-o	Open terminal / command prompt and type below command
-o	g++ VFS.cpp -o myexe
-o	then exexute the myexe file, if you're using windows then type myexe or using Linux distros use ./myexe 
+
+
+	Open terminal / command prompt and type below command
+	g++ cvf.cpp -o myexe
+	then exexute the myexe file, if you're using windows then type myexe or using Linux distros use ./myexe 
 
 •	About
-o	In this project implemented all necessary data structures of file system like Incore Inode Table, File Table, UAREA, User File Descriptor table.
 
-o	Topics
+
+	In this project implemented all necessary data structures of file system like Incore Inode Table, File Table, UAREA, User File Descriptor table.
+
+ Topics  --
 c linux unix filesystem data-structures
-o	Resources
+	Resources --
+
  Readme
-o	Releases
+	Releases --
+ 
 No releases published
-o	Packages
+	Packages --
+
 No packages published
-o	Languages
+	Languages --
+
 C
 100.0%
+
+
+
+
 
 
 
